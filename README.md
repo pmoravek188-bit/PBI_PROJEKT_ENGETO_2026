@@ -196,4 +196,4 @@ Data byla předzpracována Python skriptem `prepare_data.py`, který:
 
 ## Autor
 
-Projekt vytvořen v rámci Datové Akademie Engeto.
+Patrik Moravek - Datová Akademie Engeto 2026

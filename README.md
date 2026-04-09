@@ -117,21 +117,6 @@ Rating Category =
     )
 ```
 
-## Barevné schéma (IMDB styl)
-
-| Prvek | HEX |
-|---|---|
-| Pozadí stránek | #1F1F1F |
-| Pozadí vizuálů | #121212 |
-| Hlavní akcent (IMDB žlutá) | #F5C518 |
-| Text | #FFFFFF |
-| Sekundární text | #AAAAAA |
-| Sekundární akcent (oranžová) | #E8952E |
-| Zelená (Vynikající 8+) | #27AE60 |
-| Žlutá (Dobrý 6-8) | #F5C518 |
-| Oranžová (Průměrný 4-6) | #E67E22 |
-| Červená (Slabý pod 4) | #C0392B |
-
 ## Interaktivní prvky
 
 - **Navigace po stránkách** - obrázkové tlačítka (Overview, Genres, Top Movies, Directors) + šipky vlevo/vpravo + Home

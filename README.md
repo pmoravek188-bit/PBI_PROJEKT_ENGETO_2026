@@ -145,13 +145,18 @@ Rating Category =
 
 ```
 PBI_ENGETO_Projekt/
-├── projekt.pbix                    # Power BI report (obsahuje všechna data)
+├── PBI_projekt_engeto_2026_Patrik_Moravek.pbix  # Power BI report (obsahuje všechna data)
 ├── README.md                       # Dokumentace projektu
 ├── prepare_data.py                 # Python skript pro přípravu dat
 ├── tmdb_5000_movies.csv            # Zdrojová data - filmy
 ├── tmdb_5000_credits.csv           # Zdrojová data - herci a režiséři
+├── pozadi.PNG                      # Pozadí reportu (tmavé)
+├── pozadi2.jpg                     # Alternativní pozadí
+├── banner_s_tlacitky.png           # Filmový banner s navigačními tlačítky
+├── tlacitka_hp.png                 # Tlačítka pro úvodní stránku
 ├── clean_data/                     # Vyčištěná data (12 CSV/TXT souborů)
 │   ├── movies.txt
+│   ├── movies.csv
 │   ├── genres.csv
 │   ├── actors.csv
 │   ├── directors.csv
@@ -176,7 +181,8 @@ PBI_ENGETO_Projekt/
     ├── btn_left.png
     ├── btn_right.png
     ├── btn_home.png
-    └── btn_web.png
+    ├── btn_web.png
+    └── klik na web.png
 ```
 
 ## Technické požadavky

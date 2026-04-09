@@ -152,7 +152,6 @@ PBI_ENGETO_Projekt/
 ├── tmdb_5000_credits.csv           # Zdrojová data - herci a režiséři
 ├── clean_data/                     # Vyčištěná data (12 CSV/TXT souborů)
 │   ├── movies.txt
-│   ├── movies.csv
 │   ├── genres.csv
 │   ├── actors.csv
 │   ├── directors.csv
